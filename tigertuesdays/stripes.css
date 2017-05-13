@@ -1,0 +1,18 @@
+html {
+	background-image: url("images/tigerbackground.jpg")
+}
+
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #FFFFFF;
+}
+
+.buffer {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.tigerpicture {
+	width: 400px;
+}
