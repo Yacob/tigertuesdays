@@ -1,2 +1,7 @@
 #gitignore
-**/**.zip
+#
+# Tiger Tuesdays
+
+*.zip
+*.7z
+*.rar
