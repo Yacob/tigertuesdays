@@ -1,10 +1,6 @@
 html {
-	background-image: url("images/tigerbackground.jpg")
-}
-
-div
-{
-cursor:url(images/outline.jpg),url(images/outline.jpg),auto;
+	background-image: url("images/tigerbackground.jpg");
+	cursor: url("images/outline.jpg"),url("images/outline.jpg"),auto;
 }
 
 body {
