@@ -22,6 +22,12 @@
 			</div>
 			<div class="row buffer">
 				<div class="col-md-12">
+					<span>I walked super far to take this photo</span></br></br>
+					<img src="images/pisa/santiago.jpg" alt="santiagooooo" class="tigerpicture">
+				</div>
+			</div>
+			<div class="row buffer">
+				<div class="col-md-12">
 					<span>Leaning tower of washington</span></br></br>
 					<img src="images/pisa/leaningTowerWashington.jpg" alt="big ol dick" class="tigerpicture">
 				</div>
